@@ -1,0 +1,121 @@
+#banner1{
+    height:250px;
+    width:100%;
+    background-image:url("../visual/know.webp");
+    border-radius:10px;
+}
+#container
+{
+    height:1400px;
+}
+#banner1 table h1
+{
+    margin-left:470px;
+    color:white;
+    padding:100px;
+    margin-bottom:10px;
+    margin-top:25px;
+}
+#banner2
+{
+    height:500px;
+    width:50%;
+    float:left;
+}
+#banner2 img
+{
+    height:350px;
+    margin-top:100px;
+}
+#text h1 p
+{
+   float:right;
+   margin-right:450px;
+   font-size:20px;
+   overflow:hidden;
+}
+#border
+{
+    height:500px;
+    background-color:black;
+    margin-left:200px;
+    margin-right:200px;
+    border-radius:10px;
+    margin-bottom:120px;
+}
+#app
+{
+    clear:both;
+    margin-right:130px;
+}
+#app img
+{
+    height:250px;
+    width:40%;
+    border-radius:10px;
+    margin-bottom:200px;
+    margin-left:280px;
+    margin-top:50px;
+    overflow:hidden;
+}
+#banner3
+{
+	clear:both;
+	height:150px;
+	width:100%;
+	border-radius:10px;
+	background-color:rgb(13,23,103);
+	overflow:hidden;
+}
+.asign
+{
+    float:right;
+    width:30%;
+    margin-left:950px;
+    margin-top:50px;
+    
+}
+#banner3 input
+{
+    height:40px;
+    width:250px;
+
+}
+#banner3 button
+{
+  height:40px;
+}
+button:hover
+{
+    background-color: blue;
+}
+#footer
+{   height:300px;
+	background-color:white;
+	clear:both;
+}
+#footer ul li 
+{
+   display:inline;
+   text-decoration:none;
+   float:left;  
+   margin-top:25px;   
+}
+#footer ul li a
+{
+   text-decoration:none;
+   color:black;
+   padding:10px;
+   
+}
+
+#footer p
+{
+	float:right;
+	color:black;
+	padding:10px;
+}
+#footer img
+{ 
+    
+}
